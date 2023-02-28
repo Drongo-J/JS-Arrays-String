@@ -1,0 +1,28 @@
+li {
+    margin: 10px;
+}
+
+ul {
+    list-style: none;
+}
+
+td {
+    width: 100px;
+    height: 100px;
+    box-sizing: border-box;
+    padding: 15px;
+    border-radius: 15px;
+    border: 5px solid;
+    font-size: 4em;
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+    background-color: teal;
+    color: white;
+}
+
+.myimg {
+    height: 100%;
+    object-fit: cover;
+    width: 100%;
+}
